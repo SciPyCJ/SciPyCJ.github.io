@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Week 1
+author: Candace Jasper
 ---
 ## My Blog
-_by: Candace Jasper_
 
 During the first week, I met with Dr. Crawford and my mentors to discuss the project 
 that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
